@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+![Static Badge](https://img.shields.io/badge/Java-Developer-blue?logoColor=Blue&color=blue)
+![Static Badge](https://img.shields.io/badge/Python-Programmer-yellow)
+![Static Badge](https://img.shields.io/badge/Arduino-IoT-green)
+![Static Badge](https://img.shields.io/badge/DSA-Learner-orange)
+
+
+
+
+
+
 <!--
 **AmritRaj29/AmritRaj29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
