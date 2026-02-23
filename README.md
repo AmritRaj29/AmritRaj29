@@ -1,54 +1,73 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700">
+</p>
+
 <h1 align="center">Hi 👋 I'm Aaryan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Developer;DSA+Learner;Arduino+Enthusiast;Open+Source+Explorer&center=true&width=500&height=45&color=00BFFF&vCenter=true&size=22">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋,+I'm+Aaryan;Java+Developer;DSA+Learner;Open+Source+Explorer;Future+Software+Engineer&center=true&width=550&height=50&color=00FF00&size=24">
 </p>
-
-<h3 align="center">🚀 Passionate Developer | DSA Learner | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmritRaj29&color=blue" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=AmritRaj29&color=brightgreen">
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-- 🌱 Currently learning **DSA & Development**
-- 💻 Love working with **Java, Python & Arduino**
-- 🚀 Interested in **Open Source & Projects**
-- 📫 Reach me at: **your-email@gmail.com**
+## 👨‍💻 About Me
+
+- 🎓 Student & Developer
+- 🚀 Learning Data Structures & Algorithms
+- 💻 Working with Java & Arduino
+- 🌱 Improving Problem Solving Skills
+- ⚡ Goal: Software Engineer
 
 ---
 
-## 🚀 Skills
+## 💻 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-Developer-blue)
-![Python](https://img.shields.io/badge/Python-Programmer-yellow)
-![C++](https://img.shields.io/badge/C++-Coding-blueviolet)
-![Arduino](https://img.shields.io/badge/Arduino-IoT-green)
-![Git](https://img.shields.io/badge/Git-VersionControl-orange)
-![DSA](https://img.shields.io/badge/DSA-Learner-red)
+![Java](https://img.shields.io/badge/Java-Developer-black?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-Coding-black?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-DSA-black?style=for-the-badge&logo=cplusplus)
+![Git](https://img.shields.io/badge/Git-VersionControl-black?style=for-the-badge&logo=git)
+![Arduino](https://img.shields.io/badge/Arduino-IoT-black?style=for-the-badge&logo=arduino)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmritRaj29&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=AmritRaj29&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmritRaj29&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmritRaj29&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AmritRaj29&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=AmritRaj29&theme=radical)
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 Contribution Snake
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/)
+![snake gif](https://github.com/AmritRaj29/AmritRaj29/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📈 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo)
+
+---
+
+## 🧠 DSA Progress
+
+- ✅ Arrays
+- ✅ Strings
+- 🔄 Recursion
+- 🔄 Linked List
+- ⏳ Trees
+- ⏳ Graphs
 
 ---
 
