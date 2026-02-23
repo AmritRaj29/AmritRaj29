@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="900"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Aaryan</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=ACCESS+GRANTED;Hi+I'm+Aaryan;Java+Developer;DSA+Learner;SYSTEM+ONLINE&center=true&width=600&height=60&color=00FF00&size=28">
+</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋,+I'm+Aaryan;Java+Developer;DSA+Learner;Open+Source+Explorer;Future+Software+Engineer&center=true&width=550&height=50&color=00FF00&size=24">
@@ -11,6 +13,10 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=AmritRaj29&color=brightgreen">
 </p>
+
+## 🎧 Now Playing (Spotify)
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31kfdxmzofrpbybechyxo5dverxe&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00ff00&bar_color_cover=false)](https://open.spotify.com/user/31kfdxmzofrpbybechyxo5dverxe)
 
 ---
 
