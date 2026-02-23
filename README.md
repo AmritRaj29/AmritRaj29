@@ -56,7 +56,7 @@
 
 ## 📈 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AllanJonshon29?theme=dark&font=Baloo)
 
 ---
 
