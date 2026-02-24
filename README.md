@@ -16,14 +16,9 @@
 
 ---
 
-## 🎧 Now Playing (Spotify)
+## 🎧 Now Playing
 
-<p align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kfdxmzofrpbybechyxo5dverxe&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
-
-</p>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31kfdxmzofrpbybechyxo5dverxe&cover_image=true&theme=novatorem&bar_color=00ff00&bar_color_cover=false)](https://open.spotify.com/)
 
 ---
 
