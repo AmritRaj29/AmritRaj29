@@ -21,6 +21,9 @@
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31kfdxmzofrpbybechyxo5dverxe&cover_image=true&theme=novatorem&bar_color=00ff00&bar_color_cover=false)](https://open.spotify.com/)
 
 ---
+<p align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</p>
 
 
 ## 👨‍💻 About Me
@@ -32,9 +35,12 @@
 - ⚡ Goal: Software Engineer
 
 ---
+<p align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</p>
 
 ## 💻 Tech Stack
+
 
 ![Java](https://img.shields.io/badge/Java-Developer-black?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-Coding-black?style=for-the-badge&logo=python)
