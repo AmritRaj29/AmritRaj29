@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=200&section=header&text=Aaryan%20%7C%20Developer&fontSize=45&fontColor=00ff00&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=220&section=header&text=Aaryan%20|%20Developer&fontSize=45&fontColor=00ff00&animation=fadeIn"/>
 </p>
+
 
 <p align="center">
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="900"/>
